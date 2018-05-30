@@ -1,0 +1,64 @@
+<style type="text/css">.clearfix{clear:both;}
+div.keep-aspect-ratio>div{border:0 solid red;padding:0;margin:0;position:relative;max-width:1100px;margin-left:auto;margin-right:auto;}
+
+div.keep-aspect-ratio>div>img{border:0 solid yellow;padding:0;margin:0;z-index:-1000;position:relative;top:0;bottom:0;left:0;width:100%;display:block;}
+
+div.keep-aspect-ratio>div>div{border:0 solid yellow;padding:0;margin:0;position:absolute;top:0;bottom:0;left:0;width:100%;overflow:hidden;}
+body{overflow:hidden;background-color:#000;margin-top:-0px;border:0 solid red;}
+
+.keep-aspect-ratio{overflow:hidden;display:table;min-width:45px;margin-left:auto;margin-right:auto;width:100%;height:70%;width:expression(this.width>1100 ? "1100px":this.width);background-color:#000;border:0 solid green;max-width:1100px;*margin-top:0%;}
+
+.menu{overflow:hidden;position:absolute;top:-25px;left:0;width:100%;height:100%;background-color:#000;border:0 solid blue;min-height:708px;min-width:44px;}
+
+
+
+
+.contact {
+	position: absolute;
+	width:100%;
+	margin-left:-5px;
+	bottom: 1%;
+	border: 0px solid red;
+
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0){
+
+.keep-aspect-ratio{overflow:hidden;display:table;min-width:745px;margin-left:auto;margin-right:auto;width:100%;height:70%;width:expression(this.width>100 ? "100px":this.width);background-color:#000;border:0 solid green;max-width:1100px;*margin-top:0%;}
+
+
+.inside{position:absolute;margin-left:22%;top:90px;width:56%;height:380px;background-color:#000;z-index:1;min-width:544px;}
+
+
+
+#containingBlock {
+	width: 100%;
+	height: 100%;
+	background: grey;
+	border: 0px solid grey;
+}
+.videoWrapper {
+	position: relative;
+	padding-top: 0px;
+	height: 0;
+	border: 0px solid red;
+}
+* html .videoWrapper {
+	margin-bottom: 0;
+	border: 0px solid blue;
+}
+.videoWrapper div,
+.videoWrapper embed, 
+.videoWrapper object {
+  position:absolute;
+  width:100%;
+  height:100%;
+  left:0;
+  top:0;
+	border: 0px solid black;
+}
+
+
+
+
+</style>

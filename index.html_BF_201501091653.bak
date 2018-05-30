@@ -1,0 +1,196 @@
+
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<HEAD>
+    <title>Joshua Stewart - Video Editing Reel</title>
+   <meta name="description" content="The showreel of New York based video editor Joshua Stewart.">
+    <meta name="keywords" content="whole foods, gloria estefan, wicked, broadway, commercials, New York, Brooklyn, Coney Island, Editing, Video Editing, Photography, Independent Film, Film Editors, Joshua Stewart, Bona Weiss, Production Company">
+    <meta name="author" content="Joshua Stewart">
+    <meta name="email" content="joshua.stewart@bonaweiss.com">
+    <meta name="Distribution" content="Global">
+
+
+
+<link rel="shortcut icon" href="favicon.ico" >
+<META http-equiv=Content-Type content="text/html; charset=windows-1252">
+<META content="MSHTML 6.00.2800.1458" name=GENERATOR>
+<meta property="og:title" content="Joshua Stewart - Video Editing Reel" />
+<meta property="og:url" content="http://reel.bonaweiss.com" />
+<meta property="og:image" content="http://www.bonaweiss.com/reel/screen.jpg" />
+<meta property="og:site_name" content="The Film &amp; Photography of Bona Weiss" />
+<meta property="fb:admins" content="553188614" /><META name="description" content="Joshua Stewart - Video Editing Reel">
+<style type="text/css">
+
+
+<style type="text/css">.clearfix{clear:both;}
+div.keep-aspect-ratio>div{border:0 solid red;padding:0;margin:0;position:relative;max-width:1100px;margin-left:auto;margin-right:auto;}
+
+div.keep-aspect-ratio>div>img{border:0 solid yellow;padding:0;margin:0;z-index:-1000;position:relative;top:0;bottom:0;left:0;width:100%;display:block;}
+
+div.keep-aspect-ratio>div>div{border:0 solid yellow;padding:0;margin:0;position:absolute;top:0;bottom:0;left:0;width:100%;overflow:hidden;}
+body{overflow:hidden;background-color:#000;margin-top:-0px;border:0 solid red;}
+
+.keep-aspect-ratio{overflow:hidden;display:table;min-width:745px;margin-left:auto;margin-right:auto;width:100%;height:70%;width:expression(this.width>1100 ? "1100px":this.width);background-color:#000;border:0 solid green;max-width:1100px;*margin-top:0%;}
+
+.menu{overflow:hidden;position:absolute;top:-25px;left:0;width:100%;height:100%;background-color:#000;border:0 solid blue;min-height:708px;min-width:944px;}
+
+
+
+
+.contact {
+	position: absolute;
+	width:100%;
+	margin-left:-5px;
+	bottom: 1%;
+	border: 0px solid red;
+
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0){
+
+.keep-aspect-ratio{overflow:hidden;display:table;min-width:745px;margin-left:auto;margin-right:auto;width:100%;height:70%;width:expression(this.width>1100 ? "1100px":this.width);background-color:#000;border:0 solid green;max-width:1100px;*margin-top:0%;}
+
+
+.inside{position:absolute;margin-left:22%;top:90px;width:56%;height:380px;background-color:#000;z-index:1;min-width:544px;}
+
+
+
+#containingBlock {
+	width: 100%;
+	height: 100%;
+	background: grey;
+	border: 0px solid grey;
+}
+.videoWrapper {
+	position: relative;
+	padding-top: 0px;
+	height: 0;
+	border: 0px solid red;
+}
+* html .videoWrapper {
+	margin-bottom: 0;
+	border: 0px solid blue;
+}
+.videoWrapper div,
+.videoWrapper embed, 
+.videoWrapper object {
+  position:absolute;
+  width:100%;
+  height:100%;
+  left:0;
+  top:0;
+	border: 0px solid black;
+}
+
+
+
+
+</style>
+
+
+<head>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-52102732-1', 'bonaweiss.com');
+  ga('send', 'pageview');
+
+</script>
+    <title>Joshua Stewart - Editing Reel</title>
+
+
+<link rel="shortcut icon" type="image/x-icon" href="http://www.bonaweiss.com/favicon.ico">
+
+<script type="text/javascript" language="javascript">
+
+var rollOverArr=new Array();
+function setrollover(OverImgSrc,pageImageName)
+{
+if (! document.images)return;
+if (pageImageName == null)
+    pageImageName = document.images[document.images.length-1].name;
+rollOverArr[pageImageName]=new Object;
+rollOverArr[pageImageName].overImg = new Image;
+rollOverArr[pageImageName].overImg.src=OverImgSrc;
+}
+
+function rollover(pageImageName)
+{
+if (! document.images)return;
+if (! rollOverArr[pageImageName])return;
+if (! rollOverArr[pageImageName].outImg)
+    {
+    rollOverArr[pageImageName].outImg = new Image;
+    rollOverArr[pageImageName].outImg.src = document.images[pageImageName].src;
+    }
+document.images[pageImageName].src=rollOverArr[pageImageName].overImg.src;
+}
+
+function rollout(pageImageName)
+{
+if (! document.images)return;
+if (! rollOverArr[pageImageName])return;
+document.images[pageImageName].src=rollOverArr[pageImageName].outImg.src;
+}
+//-->
+</SCRIPT>
+
+</head>
+<BODY bgcolor="000000">
+
+
+<center>
+<div style="position:absolute; width:100%; height:100%; left:0; overflow:hidden;">
+		<!--[if !IE]><!-->
+			<table  width="100%" height="100%">
+		<![endif]-->
+       		<tr>
+
+   				 <td style="vertical-align: middle; border: 0px solid red;">
+	<div class="keep-aspect-ratio">
+	<div><img src="aspect_ratio.png" />
+	<div class="clearfix">  
+
+	<div class="inside">
+
+
+
+	
+<iframe width="100%" height="100%" src="https://youtube.com/embed/aTHaAI9ObpM?modestbranding=1&autohide=1&autoplay=1&hd=1&vq=hd720" frameborder="0" allowfullscreen></iframe>
+
+
+
+</div>
+
+	<div class="menu">
+
+		 	<img src="menu.jpg"  width="100%" height="100%" border=0>
+
+			
+	</div>
+
+</div>
+</div>
+</div>        
+</tr></td>
+</table>
+</div>
+
+<div class="contact">
+<Center><img src="contactj.png"></center>
+</div>
+
+</center>
+
+
+
+<div style="position:absolute;filter:alpha(opacity=0);opacity:0.001;z-index:10;"> <a href="http://www.salmoncreeksnow.org/"><b>michael kors black friday</b></a> <a href="http://canyonlawoffice.com/"><b>michael kors black friday</b></a> <a href="http://www.dianneramponi.com/"><b>michael kors black friday</b></a> <a href="http://www.njbrownfieldsproperties.com"><b>michael kors Black Friday</b></a> <a href="http://www.brookvillechamber.com/"><b>beats by dre cyber monday</b></a> <a href="http://intlstudentprotection.com/"><b>uggs Black Friday</b></a> <a href="http://www.rockstarguitarstudio.com/"><b>juicy couture black friday</b></a> <a href="http://www.charltonlawyers.com/"><b>canada goose black friday</b></a> <a href="http://www.flighthike.com/"><b>kate spade cyber monday</b></a> <a href="http://www.plso.info/"><b>juicy couture cyber monday</b></a> <a href="http://www.muhuchina.com/"><b>moncler black friday</b></a> <a href="http://eastumatillarfpd.com"><b>Tiffany black friday</b></a> <a href="http://www.halalcosupermarket.com/"><b>victoria secret cyber monday</b></a> <a href="http://www.feelingsassy.com"><b>tory burch cyber monday</b></a> <a href="http://www.thesafecenter.org"><b>pandora black friday</b></a> <a href="http://www.feelingsassy.com"><b>tory burch cyber monday</b></a> <a href="http://multicareclinic.com/"><b>canada goose cyber Monday</b></a> <a href="http://www.nolongerabystander.org/"><b>beats by dre cyber Monday</b></a> <a href="http://drperezchiropractic.com/"><b>uggs black Friday</b></a> <a href="http://www.bdgmaintenance.com/"><b>moncler black friday</b></a> <a href="http://www.lamoureph.org/"><b>north face cyber Monday</b></a> <a href="http://www.ranchwise.com/"><b>kate spade cyber monday</b></a> <a href="http://www.logancountyhospital.org"><b>jordan cyber monday</b></a> <a href="http://www.dyaa.net/"><b>coach black Friday</b></a> <a href="http://www.seymour-pd.com/"><b>michael kors black friday</b></a> <a href="http://www.ironictimes.com/"><b>beats by dre cyber Monday</b></a> <a href="http://mmrconstructioninc.com/"><b>beats by dre black friday</b></a> <a href="http://andrewkoehlerconductor.com/"><b>canada goose cyber monday</b></a> <a href="http://www.marquess.com/"><b>north face black friday</b></a> <a href="http://www.cheyennemtnoutfitters.com/"><b>uggs black Friday</b></a> <a href="http://www.convergentassoc.com/"><b>canada goose black friday</b></a> <a href="http://www.steelcorebuildings.com/"><b>north face cyber Monday</b></a> <a href="http://www.frankfortsunshinecenter.org/"><b>uggs black friday</b></a> <a href="http://www.cherylsss.com/"><b>uggs black Friday</b></a> <a href="http://www.inhomepetcare.com/"><b>coach cyber monday</b></a> <a href="http://www.cerevesleep.com/"><b>michael kors cyber monday</b></a> <a href="http://www.mopac.com/"><b>uggs cyber monday</b></a> <a href="http://www.gsltrans.com/"><b>beats by dre cyber Monday</b></a> <a href="http://hughescione.com/"><b>beats by dre cyber Monday</b></a> <a href="http://www.proactiveitsystems.com/"><b>michael kors black Friday</b></a> <a href="http://www.everglass.org/"><b>uggs cyber monday</b></a> <a href="http://scovelsurfboards.com/"><b>uggs cyber monday</b></a> <a href="http://www.waynesmithjewels.com/"><b>coach cyber monday</b></a> <a href="http://www.wolfishlaw.com/"><b>beats by dre black Friday</b></a> <a href="http://www.waynesmithjewels.com/"><b>coach cyber monday</b></a> <a href="http://spindlerlaw.com/"><b>beats by dre cyber Monday</b></a> <a href="https://www.synkromotive.com/"><b>beats by dre cyber Monday</b></a> <a href="http://www.paace-okc.org/"><b>michael kors cyber Monday</b></a> <a href="http://www.willowcreekvillage.net/"><b>michael kors cyber Monday</b></a> <a href="http://maymontana.com/"><b>north face cyber monday</b></a> <a href="http://www.mip4u.com/"><b>north face black friday</b></a> <a href="http://www.presidentsgraves.com/"><b>north face cyber monday</b></a> <a href="http://www.jonmelby.com/"><b>beats by dre black Friday</b></a> <a href="http://www.autumn-studio.com/"><b>michael kors black Friday</b></a> <a href="http://www.perignemcrossfit.com/"><b>Oakley cyber Monday</b></a> <a href="http://healthchoiceservices.com"><b>uggs black friday</b></a> <a href="http://www.lonestar-environmental.com/"><b>michael kors cyber Monday</b></a> <a href="http://www.daveedwardsevents.com/"><b>uggs black friday</b></a> <a href="http://www.ryanmoving.com/"><b>polo black friday</b></a> <a href="http://www.bbsl.com/"><b>uggs cyber monday</b></a> <a href="http://www.wifbinaa.org/"><b>kate spade cyber monday</b></a> <a href="http://www.homeplateproject.com/"><b>kate spade cyber monday</b></a> <a href="http://www.ryanmoving.com/"><b>Polo Ralph Lauren cyber monday</b></a> <a href="http://www.azlemodels.com/"><b>north face cyber monday</b></a> <a href="http://www.pddesign.com/"><b>Miumiu cyber Monday</b></a> <a href="http://www.emsinnovations.com/"><b>louis vuitton black Friday</b></a> <a href="http://www.mspasf.com/"><b>beats by dre cyber Monday</b></a> <a href="http://www.kruathaicuisine.com/"><b>uggs black friday</b></a> <a href="http://www.dcioffice.com/"><b>lululemon black friday</b></a> <a href="http://shepherdinggrace.org/"><b>black friday jordans</b></a> <a href="http://www.wildlifegreetingcards.com/"><b>beats by dre black Friday</b></a> <a href="http://smcelder.com/"><b>north face black friday</b></a> <a href="http://www.aboveandbeyondautocare.com/"><b>uggs black friday</b></a> <a href="http://www.centralctweather.com/"><b>beats by dre black Friday</b></a> <a href="http://coastalenergyofsc.com"><b>beats by dre black friday</b></a> <a href="http://www.fishtfm.com/"><b>canada goose cyber monday</b></a></div></body></html>
+
+
+
