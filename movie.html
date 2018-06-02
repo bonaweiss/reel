@@ -1,0 +1,112 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>movie</title>
+
+
+<style type="text/css">
+
+body {
+margin-top:0px;
+background-color: black;
+}
+
+
+
+
+
+img#ok {
+	position: relative;
+	top:165;
+height:38%;
+	left:0;
+	z-index:1;
+	
+}
+
+
+
+
+
+.vimeo-wrapper {
+   position: fixed;
+   top: 0;
+   left: 0;
+   width: 100%;
+   height: 100%;
+   z-index: 0;
+   pointer-events: none;
+   overflow: hidden;
+}
+.vimeo-wrapper iframe {
+   width: 100vw;
+   height: 56.25vw; /* Given a 16:9 aspect ratio, 9/16*100 = 56.25 */
+   min-height: 100vh;
+   min-width: 177.77vh; /* Given a 16:9 aspect ratio, 16/9*100 = 177.77 */
+   position: absolute;
+   top: 50%;
+   left: 50%;
+   transform: translate(-50%, -50%);
+}
+
+
+</style>
+</head>
+
+<body>
+
+<center>
+<a href=“https://www.linkedin.com/in/bonaweiss” target="_blank"><img src="linkedin.png" id="ok"></a>
+<img src="spacer.png" id="ok">
+<a href=“https://www.instagram.com/bonaweissmedia/” target="_blank"><img src="insta.png" id="ok"></a>
+<img src="spacer.png" id="ok">
+<a href=“https://vimeo.com/bonaweiss” target="_blank"><img src="vimeo.png" id="ok"></a>
+
+</center>
+
+
+
+<div class="vimeo-wrapper">
+
+
+
+<div id="muteYouTubeVideoPlayer"></div>
+
+<script async src="https://www.youtube.com/iframe_api"></script>
+<script>
+ function onYouTubeIframeAPIReady() {
+  var player;
+  player = new YT.Player('muteYouTubeVideoPlayer', {
+    videoId: 'OJRd0ZWhWs4', // YouTube Video ID
+    width: 560,               // Player width (in px)
+    height: 316,              // Player height (in px)
+    playerVars: {
+      autoplay: 1,        // Auto-play the video on load
+      controls: 1,        // Show pause/play buttons in player
+      showinfo: 0,        // Hide the video title
+      modestbranding: 1,  // Hide the Youtube Logo
+      loop: 1,            // Run the video in a loop
+      fs: 0,              // Hide the full screen button
+      cc_load_policy: 0, // Hide closed captions
+      iv_load_policy: 3,  // Hide the Video Annotations
+      autohide: 0         // Hide video controls when playing
+    },
+    events: {
+      onReady: function(e) {
+        e.target.mute();
+      }
+    }
+  });
+ }
+
+ // Written by @labnol 
+</script>
+
+
+
+</div>
+
+
+
+
+</body>
+</html>
